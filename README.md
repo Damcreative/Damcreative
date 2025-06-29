@@ -1,5 +1,6 @@
 Frontend Developer | LMS Specialist 
 <br>
+<br>
 👋 Hi, I’m Aminat.
 <br>
 I build clean, responsive web interfaces and seamless digital learning experiences — where design meets functionality.

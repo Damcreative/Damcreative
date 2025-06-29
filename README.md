@@ -9,7 +9,8 @@ With a background in LMS platforms and instructional design, I combine code + cr
 
 <br>
 💻 What I Do:
-→ Frontend Development: HTML, CSS, JavaScript, and React—crafting user-focused, responsive web interfaces.
+<br>
+→ Frontend Development: HTML, CSS, JavaScript, and React — crafting user-focused, responsive web interfaces.
 
 → LMS Integration & Course Design: Moodle, Canvas, Thinkific, Kajabi, Articulate 360 & more.
 
@@ -17,6 +18,7 @@ With a background in LMS platforms and instructional design, I combine code + cr
 
 <br>
 ⚡ A Few Wins:
+<br>
 → 40+ booking sites launched for service-based businesses
 
 → 30+ custom online courses delivered across industries
